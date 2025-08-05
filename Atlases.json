@@ -11,28 +11,27 @@
 
 
 "declaringwar": "this controversy has gone too far we shall conquer your nation"
-"
-"
-"
+"attacked": "What the devil!?!"
+"defeated": "it pains me but i am gone"
+"introduction": " Hello my good sir how do you do."
 
 
-"
-"
-"
-"
+"neutralHello": "Hello my good sir how do you do."
+"neutralLetshearIt": "Go on"
+"neutralNo": ["Nein","Nein!"]
+"neutralYes": ["Ja","Ja!"]
 
 
-"
-"
-"
-"
+"hatehello" "what?"
+"hateletshearit": "go on"
+"hateno": ["Nein!"]
+"hateyes": ["ok","fine"]
+
+"afterPeace": "finally"
+"traderequest": "yes or no?"
 
 
-"
-"
-
-
-"
-"
-"
-"
+"outercolor": ["0,0,0"]
+"innercolor": ["80,80,80"]
+"unique": "
+"cities": ["Qnisis","Q'vawx","Q'venx"]
