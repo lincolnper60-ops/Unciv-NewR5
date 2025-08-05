@@ -1,4 +1,38 @@
 [game]
 "name": "BRR"
 "leadername": "Vache onn 3rd"
-"adjective" "Braven"
+"adjective" : "Braven"
+"startbais" : "grassland"
+"preferredvictoryType": "Diplomatic"
+
+
+"startintropart1": "Hello my good sir how do you do."
+"startintropart2": "My kiesire this new nation shall grow from your contol."
+
+
+"declaringwar": "this controversy has gone too far we shall conquer your nation"
+"
+"
+"
+
+
+"
+"
+"
+"
+
+
+"
+"
+"
+"
+
+
+"
+"
+
+
+"
+"
+"
+"
