@@ -1,1 +1,24 @@
-g
+"name": "alstons"
+"unitType": "Ranged"
+"uniqueTo": "BRR"
+"replaces": "riflemen"
+"movement": 3,
+"strength": 95,
+"rangedstrength": 70,
+"range": 2,
+"cost": 400,
+"requiredtech": "Gunpowder"
+"promotions": [""]
+"attacksound": "rifleme"
+
+
+"name": "wartrain"
+"unitType": "melee"
+"uniqueto": "BRR"
+"replaces"; "Moderenarmor"
+"movement": 5,
+"cost": 700,
+"requiredtech": "railroads"
+"requiredresource": "coal"
+"promotions": ["accuracy I besiege"]
+"attacksound": "canon"
